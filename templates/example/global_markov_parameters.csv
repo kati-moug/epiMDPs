@@ -1,0 +1,4 @@
+len_epoch,H,R,R_rel,p_rec,I,num_epochs,infn_prob,recovery_rate
+7,h0,r0,r0,0.1,i,10,0.01,0.5
+,h1,r1,r1,0.25,,,0.1,0.125
+,,r2,,,,,,
